@@ -32,7 +32,64 @@
     
     <url>
     
+      <loc>https://YinWanJian.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://YinWanJian.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://YinWanJian.github.io/publication/origin-of-highelectronic-quality-in-structurally-disordered-ch3nh3pbi3and-the-passivation-effect-of-cl-and-o-at-grain-boundaries-/</loc>
+      <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://YinWanJian.github.io/publication_types/1/</loc>
+      <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://YinWanJian.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://YinWanJian.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://YinWanJian.github.io/tags/machine-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -51,7 +108,18 @@
     
     <url>
     
+      <loc>https://YinWanJian.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://YinWanJian.github.io/publication_types/</loc>
+      <lastmod>2015-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,6 +129,7 @@
     <url>
     
       <loc>https://YinWanJian.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

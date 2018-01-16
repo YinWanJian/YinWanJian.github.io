@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prof_Yin&#39;s Team on Prof_Yin&#39;s Team</title>
-    <link>https://YinWanJian.github.io/</link>
-    <description>Recent content in Prof_Yin&#39;s Team on Prof_Yin&#39;s Team</description>
+    <title>Projects on Prof_Yin&#39;s Team</title>
+    <link>https://YinWanJian.github.io/project/</link>
+    <description>Recent content in Projects on Prof_Yin&#39;s Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>External Project</title>
@@ -34,16 +34,6 @@ Alpaydin（2004）同时提出自己对机器学习的定义，“机器学习�
 机器的能力是否能超过人的，很多持否定意见的人的一个主要论据是：机器是人造的，其性能和动作完全是由设计者规定的，因此无论如何其能力也不会超过设计者本人。这种意见对不具备学习能力的机器来说的确是对的，可是对具备学习能力的机器就值得考虑了，因为这种机器的能力在应用中不断地提高，过一段时间之后，设计者本人也不知它的能力到了何种水平。
 机器学习有下面几种定义： “机器学习是一门人工智能的科学，该领域的主要研究对象是人工智能，特别是如何在经验学习中改善具体算法的性能”。 “机器学习是对能通过经验自动改进的计算机算法的研究”。 “机器学习是用数据或以往的经验，以此优化计算机程序的性能标准。” 一种经常引用的英文定义是：A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
 机器学习已经有了十分广泛的应用，例如：数据挖掘、计算机视觉、自然语言处理、生物特征识别、搜索引擎、医学诊断、检测信用卡欺诈、证券市场分析、DNA序列测序、语音和手写识别、战略游戏和机器人运用。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Origin of HighElectronic Quality in Structurally Disordered CH3NH3PbI3and the Passivation Effect of Cl and O at Grain Boundaries</title>
-      <link>https://YinWanJian.github.io/publication/origin-of-highelectronic-quality-in-structurally-disordered-ch3nh3pbi3and-the-passivation-effect-of-cl-and-o-at-grain-boundaries-/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://YinWanJian.github.io/publication/origin-of-highelectronic-quality-in-structurally-disordered-ch3nh3pbi3and-the-passivation-effect-of-cl-and-o-at-grain-boundaries-/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
